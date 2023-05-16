@@ -1,0 +1,61 @@
+C:\Users\Andrei\source\LFA\GraphModified\GraphModified\bin\Debug\GraphModified.exe.config
+C:\Users\Andrei\source\LFA\GraphModified\GraphModified\bin\Debug\GraphModified.exe
+C:\Users\Andrei\source\LFA\GraphModified\GraphModified\bin\Debug\GraphModified.pdb
+C:\Users\Andrei\source\LFA\GraphModified\GraphModified\obj\Debug\GraphModified.csprojAssemblyReference.cache
+C:\Users\Andrei\source\LFA\GraphModified\GraphModified\obj\Debug\MainWindow.g.cs
+C:\Users\Andrei\source\LFA\GraphModified\GraphModified\obj\Debug\App.g.cs
+C:\Users\Andrei\source\LFA\GraphModified\GraphModified\obj\Debug\GraphModified_MarkupCompile.cache
+C:\Users\Andrei\source\LFA\GraphModified\GraphModified\obj\Debug\GraphModified_MarkupCompile.lref
+C:\Users\Andrei\source\LFA\GraphModified\GraphModified\obj\Debug\MainWindow.baml
+C:\Users\Andrei\source\LFA\GraphModified\GraphModified\obj\Debug\GraphModified.g.resources
+C:\Users\Andrei\source\LFA\GraphModified\GraphModified\obj\Debug\GraphModified.Properties.Resources.resources
+C:\Users\Andrei\source\LFA\GraphModified\GraphModified\obj\Debug\GraphModified.csproj.GenerateResource.cache
+C:\Users\Andrei\source\LFA\GraphModified\GraphModified\obj\Debug\GraphModified.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\LFA\GraphModified\GraphModified\obj\Debug\GraphModified.exe
+C:\Users\Andrei\source\LFA\GraphModified\GraphModified\obj\Debug\GraphModified.pdb
+C:\Users\narci\Desktop\LFAtotal\LFAtotal\GraphModified\GraphModified\bin\Debug\GraphModified.exe.config
+C:\Users\narci\Desktop\LFAtotal\LFAtotal\GraphModified\GraphModified\bin\Debug\GraphModified.exe
+C:\Users\narci\Desktop\LFAtotal\LFAtotal\GraphModified\GraphModified\bin\Debug\GraphModified.pdb
+C:\Users\narci\Desktop\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.csprojAssemblyReference.cache
+C:\Users\narci\Desktop\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\MainWindow.g.cs
+C:\Users\narci\Desktop\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\App.g.cs
+C:\Users\narci\Desktop\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified_MarkupCompile.cache
+C:\Users\narci\Desktop\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified_MarkupCompile.lref
+C:\Users\narci\Desktop\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\MainWindow.baml
+C:\Users\narci\Desktop\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.g.resources
+C:\Users\narci\Desktop\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.Properties.Resources.resources
+C:\Users\narci\Desktop\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.csproj.GenerateResource.cache
+C:\Users\narci\Desktop\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.csproj.CoreCompileInputs.cache
+C:\Users\narci\Desktop\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.exe
+C:\Users\narci\Desktop\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.pdb
+C:\Users\narci\source\repos\LFAtotal\LFAtotal\GraphModified\GraphModified\bin\Debug\GraphModified.exe.config
+C:\Users\narci\source\repos\LFAtotal\LFAtotal\GraphModified\GraphModified\bin\Debug\GraphModified.exe
+C:\Users\narci\source\repos\LFAtotal\LFAtotal\GraphModified\GraphModified\bin\Debug\GraphModified.pdb
+C:\Users\narci\source\repos\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.csprojAssemblyReference.cache
+C:\Users\narci\source\repos\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\MainWindow.g.cs
+C:\Users\narci\source\repos\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\App.g.cs
+C:\Users\narci\source\repos\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified_MarkupCompile.cache
+C:\Users\narci\source\repos\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified_MarkupCompile.lref
+C:\Users\narci\source\repos\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\MainWindow.baml
+C:\Users\narci\source\repos\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.g.resources
+C:\Users\narci\source\repos\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.Properties.Resources.resources
+C:\Users\narci\source\repos\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.csproj.GenerateResource.cache
+C:\Users\narci\source\repos\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.csproj.CoreCompileInputs.cache
+C:\Users\narci\source\repos\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.exe
+C:\Users\narci\source\repos\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.pdb
+C:\Users\Veiras\Desktop\Anul 3\LFA\LFAtotal\LFAtotal\GraphModified\GraphModified\bin\Debug\GraphModified.exe.config
+C:\Users\Veiras\Desktop\Anul 3\LFA\LFAtotal\LFAtotal\GraphModified\GraphModified\bin\Debug\GraphModified.exe
+C:\Users\Veiras\Desktop\Anul 3\LFA\LFAtotal\LFAtotal\GraphModified\GraphModified\bin\Debug\GraphModified.pdb
+C:\Users\Veiras\Desktop\Anul 3\LFA\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.csproj.AssemblyReference.cache
+C:\Users\Veiras\Desktop\Anul 3\LFA\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.csproj.SuggestedBindingRedirects.cache
+C:\Users\Veiras\Desktop\Anul 3\LFA\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\MainWindow.g.cs
+C:\Users\Veiras\Desktop\Anul 3\LFA\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\App.g.cs
+C:\Users\Veiras\Desktop\Anul 3\LFA\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified_MarkupCompile.cache
+C:\Users\Veiras\Desktop\Anul 3\LFA\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified_MarkupCompile.lref
+C:\Users\Veiras\Desktop\Anul 3\LFA\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\MainWindow.baml
+C:\Users\Veiras\Desktop\Anul 3\LFA\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.g.resources
+C:\Users\Veiras\Desktop\Anul 3\LFA\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.Properties.Resources.resources
+C:\Users\Veiras\Desktop\Anul 3\LFA\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.csproj.GenerateResource.cache
+C:\Users\Veiras\Desktop\Anul 3\LFA\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.csproj.CoreCompileInputs.cache
+C:\Users\Veiras\Desktop\Anul 3\LFA\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.exe
+C:\Users\Veiras\Desktop\Anul 3\LFA\LFAtotal\LFAtotal\GraphModified\GraphModified\obj\Debug\GraphModified.pdb
